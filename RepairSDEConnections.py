@@ -2,12 +2,6 @@ import MXD
 import CSVFile
 import Layer
 import Logger
-import arcpy
-
-
-
-##data_source_map_list = CSVFile.csv_to_list(r"\\wmkarcgis\e$\GIS\Projects\PlatformMigration\SDERepathRelationships.csv")
-##map_document = MXD.Document(r"\\wmkarcgis\e$\GIS\Projects\PlatformMigration\Repth.mxd")
 
 data_source_map_list = CSVFile.csv_to_list()
 map_document = MXD.Document()
