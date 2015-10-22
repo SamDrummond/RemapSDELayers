@@ -12,6 +12,8 @@ This script was developed to help Waimakariri District Council when they migrate
 ## Parameters ##
 The script requires a csv table as an input parameter and can be configured as follows.
 
+![Parameters](https://github.com/SamDrummond/RemapSDELayers/blob/master/Parameter.png)
+
 The CSV file should have the following columns:
 
 - Connection File (e.g. \\[path to]\[connection file].sde)
